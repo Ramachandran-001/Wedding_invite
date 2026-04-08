@@ -27,7 +27,7 @@ const Location = () => {
               <p className="text-dark/70 font-sans mb-6">Sanganapuram</p>
               
               <a 
-                href="https://maps.app.goo.gl/2x9K2VWnudeq6BHY7?g_st=aw" 
+                href="https://goo.gl/maps/bKv5qQvnidj2KC2h7?g_st=aw" 
                 target="_blank" 
                 rel="noreferrer"
                 className="inline-flex items-center gap-2 px-6 py-3 bg-primary text-white font-medium tracking-widest text-sm uppercase hover:bg-dark transition-colors duration-300"
