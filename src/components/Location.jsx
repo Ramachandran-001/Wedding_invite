@@ -17,7 +17,7 @@ const Location = () => {
               <h2 className="text-primary tracking-widest uppercase text-sm mb-2">Getting There</h2>
               <h3 className="font-script text-6xl md:text-7xl mb-6">Venue & Map</h3>
               <p className="text-dark/70 font-sans leading-relaxed mb-6">
-                We can't wait to celebrate with you! The main wedding ceremony and reception will be held at the prestigious Grand Gardens in New York. Ample parking is available on site.
+                We can't wait to celebrate with you! The main wedding ceremony and reception will be held at the prestigious Community Hall,Sanganapuram.
               </p>
             </div>
 
